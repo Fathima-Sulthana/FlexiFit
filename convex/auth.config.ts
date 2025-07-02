@@ -3,7 +3,7 @@
 export default {
   providers: [
     {
-      domain: "https://gentle-ladybug-79.clerk.accounts.dev",
+      domain: "https://gentle-ladybug-79.clerk.accounts.dev/",
       applicationID: "convex",
     },
   ]
